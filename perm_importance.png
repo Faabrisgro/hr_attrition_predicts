@@ -1,0 +1,267 @@
+
+    <style>
+    table.eli5-weights tr:hover {
+        filter: brightness(85%);
+    }
+</style>
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+    
+
+    
+
+    
+
+    
+
+    
+        <table class="eli5-weights eli5-feature-importances" style="border-collapse: collapse; border: none; margin-top: 0em; table-layout: auto;">
+    <thead>
+    <tr style="border: none;">
+        <th style="padding: 0 1em 0 0.5em; text-align: right; border: none;">Weight</th>
+        <th style="padding: 0 0.5em 0 0.5em; text-align: left; border: none;">Feature</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+        <tr style="background-color: hsl(120, 100.00%, 80.00%); border: none;">
+            <td style="padding: 0 1em 0 0.5em; text-align: right; border: none;">
+                0.0751
+                
+                    &plusmn; 0.0061
+                
+            </td>
+            <td style="padding: 0 0.5em 0 0.5em; text-align: left; border: none;">
+                MonthlyIncome
+            </td>
+        </tr>
+    
+        <tr style="background-color: hsl(120, 100.00%, 81.46%); border: none;">
+            <td style="padding: 0 1em 0 0.5em; text-align: right; border: none;">
+                0.0673
+                
+                    &plusmn; 0.0128
+                
+            </td>
+            <td style="padding: 0 0.5em 0 0.5em; text-align: left; border: none;">
+                Age
+            </td>
+        </tr>
+    
+        <tr style="background-color: hsl(120, 100.00%, 83.68%); border: none;">
+            <td style="padding: 0 1em 0 0.5em; text-align: right; border: none;">
+                0.0561
+                
+                    &plusmn; 0.0100
+                
+            </td>
+            <td style="padding: 0 0.5em 0 0.5em; text-align: left; border: none;">
+                YearsAtCompany
+            </td>
+        </tr>
+    
+        <tr style="background-color: hsl(120, 100.00%, 85.26%); border: none;">
+            <td style="padding: 0 1em 0 0.5em; text-align: right; border: none;">
+                0.0485
+                
+                    &plusmn; 0.0085
+                
+            </td>
+            <td style="padding: 0 0.5em 0 0.5em; text-align: left; border: none;">
+                OverTime_No
+            </td>
+        </tr>
+    
+        <tr style="background-color: hsl(120, 100.00%, 86.31%); border: none;">
+            <td style="padding: 0 1em 0 0.5em; text-align: right; border: none;">
+                0.0437
+                
+                    &plusmn; 0.0087
+                
+            </td>
+            <td style="padding: 0 0.5em 0 0.5em; text-align: left; border: none;">
+                JobRole
+            </td>
+        </tr>
+    
+        <tr style="background-color: hsl(120, 100.00%, 86.76%); border: none;">
+            <td style="padding: 0 1em 0 0.5em; text-align: right; border: none;">
+                0.0416
+                
+                    &plusmn; 0.0065
+                
+            </td>
+            <td style="padding: 0 0.5em 0 0.5em; text-align: left; border: none;">
+                PercentSalaryHike
+            </td>
+        </tr>
+    
+        <tr style="background-color: hsl(120, 100.00%, 87.86%); border: none;">
+            <td style="padding: 0 1em 0 0.5em; text-align: right; border: none;">
+                0.0368
+                
+                    &plusmn; 0.0061
+                
+            </td>
+            <td style="padding: 0 0.5em 0 0.5em; text-align: left; border: none;">
+                JobLevel
+            </td>
+        </tr>
+    
+        <tr style="background-color: hsl(120, 100.00%, 88.88%); border: none;">
+            <td style="padding: 0 1em 0 0.5em; text-align: right; border: none;">
+                0.0325
+                
+                    &plusmn; 0.0065
+                
+            </td>
+            <td style="padding: 0 0.5em 0 0.5em; text-align: left; border: none;">
+                MaritalStatus
+            </td>
+        </tr>
+    
+        <tr style="background-color: hsl(120, 100.00%, 89.64%); border: none;">
+            <td style="padding: 0 1em 0 0.5em; text-align: right; border: none;">
+                0.0293
+                
+                    &plusmn; 0.0067
+                
+            </td>
+            <td style="padding: 0 0.5em 0 0.5em; text-align: left; border: none;">
+                JobInvolvement
+            </td>
+        </tr>
+    
+        <tr style="background-color: hsl(120, 100.00%, 90.80%); border: none;">
+            <td style="padding: 0 1em 0 0.5em; text-align: right; border: none;">
+                0.0247
+                
+                    &plusmn; 0.0044
+                
+            </td>
+            <td style="padding: 0 0.5em 0 0.5em; text-align: left; border: none;">
+                EducationField
+            </td>
+        </tr>
+    
+        <tr style="background-color: hsl(120, 100.00%, 91.70%); border: none;">
+            <td style="padding: 0 1em 0 0.5em; text-align: right; border: none;">
+                0.0214
+                
+                    &plusmn; 0.0068
+                
+            </td>
+            <td style="padding: 0 0.5em 0 0.5em; text-align: left; border: none;">
+                BusinessTravel
+            </td>
+        </tr>
+    
+        <tr style="background-color: hsl(120, 100.00%, 92.37%); border: none;">
+            <td style="padding: 0 1em 0 0.5em; text-align: right; border: none;">
+                0.0189
+                
+                    &plusmn; 0.0044
+                
+            </td>
+            <td style="padding: 0 0.5em 0 0.5em; text-align: left; border: none;">
+                Education
+            </td>
+        </tr>
+    
+        <tr style="background-color: hsl(120, 100.00%, 94.53%); border: none;">
+            <td style="padding: 0 1em 0 0.5em; text-align: right; border: none;">
+                0.0118
+                
+                    &plusmn; 0.0058
+                
+            </td>
+            <td style="padding: 0 0.5em 0 0.5em; text-align: left; border: none;">
+                Department
+            </td>
+        </tr>
+    
+        <tr style="background-color: hsl(120, 100.00%, 94.62%); border: none;">
+            <td style="padding: 0 1em 0 0.5em; text-align: right; border: none;">
+                0.0115
+                
+                    &plusmn; 0.0015
+                
+            </td>
+            <td style="padding: 0 0.5em 0 0.5em; text-align: left; border: none;">
+                Gender_Female
+            </td>
+        </tr>
+    
+        <tr style="background-color: hsl(120, 100.00%, 95.64%); border: none;">
+            <td style="padding: 0 1em 0 0.5em; text-align: right; border: none;">
+                0.0085
+                
+                    &plusmn; 0.0028
+                
+            </td>
+            <td style="padding: 0 0.5em 0 0.5em; text-align: left; border: none;">
+                Gender_Male
+            </td>
+        </tr>
+    
+        <tr style="background-color: hsl(120, 100.00%, 95.69%); border: none;">
+            <td style="padding: 0 1em 0 0.5em; text-align: right; border: none;">
+                0.0084
+                
+                    &plusmn; 0.0047
+                
+            </td>
+            <td style="padding: 0 0.5em 0 0.5em; text-align: left; border: none;">
+                OverTime_Yes
+            </td>
+        </tr>
+    
+    
+    </tbody>
+</table>
+    
+
+    
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
