@@ -1,5 +1,5 @@
 # **Elaniin | #1 GreatPlaceToWork | El Salvador 2024**
-## Attrition Prediction Project by Fabrizio SgroIBM HR Dataset - EDA & Machine Learning Attrition Predictions
+## Attrition Prediction Project by Fabrizio Sgro | IBM HR Dataset - EDA & Machine Learning Attrition Predictions
 ![portada](https://raw.githubusercontent.com/Faabrisgro/hr_attrition_predicts/master/portada.jpg)
 
 # Análisis Exploratorio de Datos - IBM HR Attrition Prediction Dataset 
